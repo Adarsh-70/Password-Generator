@@ -4,6 +4,8 @@ A sleek and customizable **Password Generator** built with **HTML**, **CSS**, an
 
 Generate strong, secure passwords and toggle between **Light** and **Dark** themes with ease!
 
+## 🌐 Live Demo  https://adarsh-70.github.io/Password-Generator/
+
 ## 🚀 Features
 
 - ✅ Generates secure random passwords
